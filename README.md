@@ -1,2 +1,2 @@
-# C-code-b-sico
+# C-code-basico
 Meus primeiros códigos em C...
